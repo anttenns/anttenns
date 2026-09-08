@@ -11,6 +11,6 @@
 
 
 
-<img width="590" height="509" alt="IMG_1701" src="https://github.com/user-attachments/assets/1e330a61-5cf6-42a6-b030-a4e1ab7d0324" />
+<img width="490" height="459" alt="IMG_1701" src="https://github.com/user-attachments/assets/1e330a61-5cf6-42a6-b030-a4e1ab7d0324" />
 
 
