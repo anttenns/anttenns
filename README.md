@@ -14,7 +14,7 @@
 
 <div align="center">
 <details>
-  <summary>$$\color{#e7b799}\text{𝐫𝐞𝐚𝐝\ 𝐛𝐞𝐟𝐨𝐫𝐞\ 𝐢𝐧𝐭\ (𝐡𝐞𝐥𝐥𝐚𝐯𝐞𝐫𝐬𝐞)\ !!}$$</summary>
+  <summary>$$\color{#e7b799}\text{𝐫𝐞𝐚𝐝\ 𝐛𝐞𝐟𝐨𝐫𝐞\ 𝐢𝐧𝐭\ (𝐡𝐞𝐥𝐥𝐚𝐯𝐞𝐫𝐬𝐞)\:trollface: !!}$$</summary>
   <br>
   
   <div align="center">
